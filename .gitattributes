@@ -1,1 +1,1 @@
-playground-0.0.1-SNAPSHOT.jar filter=lfs diff=lfs merge=lfs -text
+playground-0.0.1-SNAPSHOT.jar -crlf -diff -merge
