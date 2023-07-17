@@ -1,1 +1,1 @@
-playground-0.0.1-SNAPSHOT.jar -crlf -diff -merge
+*.jar -crlf -diff -merge
